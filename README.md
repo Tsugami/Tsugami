@@ -2,7 +2,7 @@
 
 - Living in SP, Brazil.
 - Dev since 2017.
-- I’m currently working at @Softwrap as a FullStack Developer.
+- I’m currently working at [@Softwrap](https://softwrap.com.br/) as a FullStack Developer.
 - Also I'm passionate about open-source, testing and functional programming.
 - I am always interested in learning something new, currently I am focused on studying Elixir and looking at Rust, ReasonML and Clojure.
 
