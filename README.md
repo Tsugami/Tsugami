@@ -1,3 +1,15 @@
+<div>
+  <a href="https://twitter.com/yslanramosdev">
+    <img src="https://img.shields.io/badge/Twitter-yslanramosdev-1DA1F2" alt="my Twitter" />
+  </a>
+  <a href="https://www.linkedin.com/in/yslan-ramos-887864195">
+    <img src="https://img.shields.io/badge/Linkedin-Yslan%20Ramos-0e76a8" alt"my Linkedin" />
+   </a>
+  <a href="https://github.com/Tsugami">
+    <img src="https://komarev.com/ghpvc/?username=tsugami&color=24292e&style=flat&label=Profile+Views" alt="Gitub Views Profile Count" />
+  </a>
+</div>
+
 # Hi there, I'm Yslan! 😀
 
 - Living in SP, Brazil.
@@ -16,14 +28,3 @@
     </td>
   </tr>
 </table>
-<div>
-  <a href="https://twitter.com/yslanramosdev">
-    <img src="https://img.shields.io/badge/Twitter-yslanramosdev-1DA1F2" alt="my Twitter" />
-  </a>
-  <a href="https://www.linkedin.com/in/yslan-ramos-887864195">
-    <img src="https://img.shields.io/badge/Linkedin-Yslan%20Ramos-0e76a8" alt"my Linkedin" />
-   </a>
-  <a href="https://github.com/Tsugami">
-    <img src="https://komarev.com/ghpvc/?username=tsugami&color=24292e&style=flat&label=Profile+Views" alt="Gitub Views Profile Count" />
-  </a>
-</div>
