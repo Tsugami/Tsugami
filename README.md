@@ -16,7 +16,7 @@
 - Dev since 2017.
 - I’m currently working at [@Softwrap](https://softwrap.com.br/) as a FullStack Developer.
 - Also I'm passionate about open-source, testing and functional programming.
-- I am always interested in learning something new, currently I am focused on studying Elixir and looking at Rust, ReasonML and Clojure.
+- I am always interested in learning something new, currently I am focused on studying Relay and looking at Elixir, Rust, ReasonML and Clojure.
 
 <table>
   <tr>
