@@ -15,7 +15,7 @@
 - Living in SP, Brazil.
 - Dev since 2017.
 - Also I'm passionate about open-source, testing and functional programming.
-- I am always interested in learning something new, currently I am focused on studying Elixir and Rust.
+- I am always interested in learning something new, currently I am focused on studying Rust.
 
 <table>
   <tr>
